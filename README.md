@@ -3,17 +3,17 @@
 <h3 align="center">A Passionate Data Scientist</h3>
 
 
-<img align="right" alt="Coding" width="250" src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif">
-
-<p align="left"> <img src="[https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif](https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif)" alt="shiv4223" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv4223" alt="shiv4223" /></a> </p>
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 - 🌱 I’m currently learning **Data Visualisation**
 
 - 💬 Ask me about **Scikit Learns , ML , Deep Learning**
 
 - 📫 How to reach me **shivanshsharma4223@gmail.com**
+
+<p align="left"> <img src="[https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif](https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif)" alt="shiv4223" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv4223" alt="shiv4223" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
