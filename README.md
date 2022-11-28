@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Galav</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 
 - 🌱 I’m currently learning **Data Visualisation**
